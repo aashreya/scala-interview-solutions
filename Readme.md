@@ -12,6 +12,7 @@ Some solutions are implemented as tail recursive.
    * Coin Change Problem 
    * Unique Paths
    * For Comprehensions 
+   * Two Sum Problem 
 
 
 ### Instructions 
