@@ -14,3 +14,12 @@ val loop2 = l1.filter(x => x < 3)
 val loop3 = loop2.flatMap(x => l2.map(y => x.toString + y.toString))
 println(loop3)
 
+
+val P = Array("X")
+val G = Array("Y")
+
+val data = for {
+  x <- P.zipWithIndex
+  y <- G
+  if (y.contains(x._1))
+} yield x._1

@@ -13,6 +13,10 @@ Some solutions are implemented as tail recursive.
    * Unique Paths
    * For Comprehensions 
    * Two Sum Problem 
+   * Roman To Int conversion
+   * Letter Combinations of a Phone Number
+   * Generate Parentheses
+   * Spiral Matrix
 
 
 ### Instructions 
